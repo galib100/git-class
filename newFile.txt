@@ -1,5 +1,5 @@
-untrack
-track/stage
+unstage
+track/stage-
 committed
 
 remote->github
